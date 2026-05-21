@@ -1,6 +1,6 @@
 {
   "name": "react-native-glassmorphic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A high-performance, zero-dependency, hybrid native and CSS blur glassmorphism library for React Native and Expo.",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
