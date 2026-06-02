@@ -4,6 +4,10 @@ A high-performance, responsive, hybrid native & CSS **Glassmorphism** layout lib
 
 This package delivers beautiful frosted glass UI components (Cards, Inputs, Buttons) that automatically tap into high-fidelity native system blur on iOS (`expo-blur` / `@react-native-community/blur`) while utilizing optimized, zero-overhead CSS gradients and highlights as fallbacks on Android and Web to prevent UI stutter.
 
+<p align="center">
+  <img src="./assets/cli_demo.svg" alt="react-native-glassmorphic Demo" width="100%" style="max-width: 860px;" />
+</p>
+
 ---
 
 ## Features
